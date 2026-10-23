@@ -1,0 +1,48 @@
+{
+  "name": "kigali",
+  "source": "AWS Open Data terrain-tiles (Mapzen terrarium encoding, SRTM-derived)",
+  "attribution": "Elevation: Mapzen/Amazon terrain-tiles, from NASA SRTM",
+  "zoom": 14,
+  "grid": 511,
+  "centre": {
+    "lat": -1.94,
+    "lon": 30.09
+  },
+  "bounds": {
+    "lat_min": -1.9689487968156323,
+    "lat_max": -1.9110512031843676,
+    "lon_min": 30.061237556506946,
+    "lon_max": 30.118762443493054
+  },
+  "metres_per_pixel": 12.5,
+  "elevation_min_m": 1368.44,
+  "elevation_max_m": 1564.23,
+  "heightmap": "kigali_heightmap.png",
+  "carve": {
+    "flat_metres": 16.0,
+    "taper_metres": 110.0,
+    "smooth_control_points": 4,
+    "max_grade": 0.11,
+    "clearance_metres": 0.25,
+    "raw_heightmap": "kigali_heightmap_raw.png",
+    "road_climb_metres": 100.9
+  },
+  "chunks": 256,
+  "triangles": 520200,
+  "extent_metres": 6375.0,
+  "detail": 2,
+  "relief_metres": 1.1,
+  "verge_metres": 17.0,
+  "shoulder": {
+    "clear_metres": 10.5,
+    "rise_metres": 0.35,
+    "batter": 0.55,
+    "drop_metres": 0.7
+  },
+  "shoulders": {
+    "wall_lateral_metres": 7.6,
+    "probe_metres": 6.0,
+    "file": "kigali_shoulders.json"
+  },
+  "corridor_metres": 9.0
+}

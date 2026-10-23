@@ -1,0 +1,41 @@
+{
+  "name": "kigali",
+  "source": "OpenStreetMap contributors, ODbL",
+  "frame": "terrain-local: x east, z south, y metres above model zero",
+  "offset": [
+    -305.5,
+    -23.5,
+    -311.1
+  ],
+  "chunk_metres": 500.0,
+  "buildings": 28197,
+  "footprints_available": 28716,
+  "dropped_in_road": 41,
+  "dropped_degenerate": 344,
+  "dropped_self_intersecting": 0,
+  "dropped_off_terrain": 134,
+  "with_tagged_height": 2915,
+  "pitched_roofs": 20550,
+  "solid_buildings": 924,
+  "visible_chunks": 185,
+  "collision_chunks": 32,
+  "triangles": 531860,
+  "vertices": 1163902,
+  "collision_triangles": 16041,
+  "roof_shapes": {
+    "flat": 7647,
+    "gabled": 9943,
+    "hipped": 10439,
+    "pyramidal": 70,
+    "skillion": 98
+  },
+  "wall_styles": {
+    "concrete": 521,
+    "plaster": 19265,
+    "brick": 8361,
+    "glass": 50
+  },
+  "landmarks": 173,
+  "clear_metres": 11.0,
+  "collide_metres": 90.0
+}

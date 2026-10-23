@@ -1,0 +1,22 @@
+# Normalise line endings on checkout so a Windows contributor and a Linux
+# contributor produce identical diffs.
+* text=auto eol=lf
+
+*.gd    text
+*.tscn  text
+*.tres  text
+*.godot text
+*.cfg   text
+*.md    text
+*.py    text
+*.ino   text
+*.json  text
+
+# Binary assets: never diff, never convert.
+*.png  binary
+*.jpg  binary
+*.wav  binary
+*.glb  binary
+*.res  binary
+*.ogg  binary
+*.ttf  binary

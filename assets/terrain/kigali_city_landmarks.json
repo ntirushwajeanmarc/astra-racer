@@ -1,0 +1,1909 @@
+{
+  "source": "OpenStreetMap contributors, ODbL",
+  "frame": "circuit coordinates",
+  "landmarks": [
+    {
+      "name": "BK Arena",
+      "kind": "stadium",
+      "position": [
+        2543.77,
+        151.07,
+        1145.62
+      ],
+      "height": 24.7,
+      "footprint_area": 11676.4
+    },
+    {
+      "name": "Kacyiru Executive Apartment",
+      "kind": "apartments",
+      "position": [
+        -210.13,
+        91.66,
+        254.17
+      ],
+      "height": 22.5,
+      "footprint_area": 8250.9
+    },
+    {
+      "name": "Radisson Blu",
+      "kind": "hotel",
+      "position": [
+        4.66,
+        124.75,
+        1297.35
+      ],
+      "height": 22.5,
+      "footprint_area": 6481.6
+    },
+    {
+      "name": "Kigali Alliance Business Centre",
+      "kind": "mall",
+      "position": [
+        -122.48,
+        116.31,
+        1052.43
+      ],
+      "height": 19.4,
+      "footprint_area": 6425.3
+    },
+    {
+      "name": "Kigali Heights",
+      "kind": "commercial",
+      "position": [
+        15.27,
+        121.14,
+        1107.42
+      ],
+      "height": 16.0,
+      "footprint_area": 6322.1
+    },
+    {
+      "name": "Silverback Mall",
+      "kind": "commercial",
+      "position": [
+        1081.04,
+        96.78,
+        2818.69
+      ],
+      "height": 18.9,
+      "footprint_area": 5610.6
+    },
+    {
+      "name": "Union Trade Centre",
+      "kind": "mall",
+      "position": [
+        -3491.38,
+        163.46,
+        314.31
+      ],
+      "height": 19.2,
+      "footprint_area": 5306.6
+    },
+    {
+      "name": "School of Mining And Geology",
+      "kind": "yes",
+      "position": [
+        -3214.48,
+        168.16,
+        1920.23
+      ],
+      "height": 9.6,
+      "footprint_area": 5084.5
+    },
+    {
+      "name": "King Faisal Hospital",
+      "kind": "yes",
+      "position": [
+        290.31,
+        78.04,
+        96.74
+      ],
+      "height": 16.1,
+      "footprint_area": 4505.3
+    },
+    {
+      "name": "Marriott",
+      "kind": "hotel",
+      "position": [
+        -3370.66,
+        185.19,
+        1224.67
+      ],
+      "height": 19.2,
+      "footprint_area": 3936.5
+    },
+    {
+      "name": "Akagera Business Group Headquarters",
+      "kind": "yes",
+      "position": [
+        -244.6,
+        53.72,
+        2754.28
+      ],
+      "height": 12.9,
+      "footprint_area": 3299.5
+    },
+    {
+      "name": "Beijing Tangren Restaurant",
+      "kind": "restaurant",
+      "position": [
+        1220.16,
+        100.62,
+        1325.08
+      ],
+      "height": 13.1,
+      "footprint_area": 3246.5
+    },
+    {
+      "name": "Convention Centre",
+      "kind": "government",
+      "position": [
+        129.0,
+        121.65,
+        1308.25
+      ],
+      "height": 16.0,
+      "footprint_area": 3116.0
+    },
+    {
+      "name": "RSSB Nyarugenge Plaza",
+      "kind": "office",
+      "position": [
+        -2083.76,
+        46.85,
+        986.19
+      ],
+      "height": 25.6,
+      "footprint_area": 3067.4
+    },
+    {
+      "name": "Park Inn",
+      "kind": "hotel",
+      "position": [
+        -2461.97,
+        106.23,
+        952.51
+      ],
+      "height": 18.9,
+      "footprint_area": 2883.3
+    },
+    {
+      "name": "MTN Centre",
+      "kind": "public_building",
+      "position": [
+        1183.56,
+        80.2,
+        -226.0
+      ],
+      "height": 13.0,
+      "footprint_area": 2780.7
+    },
+    {
+      "name": "Kacyiru Hospital",
+      "kind": "hospital",
+      "position": [
+        -2024.58,
+        68.21,
+        -1094.02
+      ],
+      "height": 16.0,
+      "footprint_area": 2673.9
+    },
+    {
+      "name": "Alliance Tower",
+      "kind": "office",
+      "position": [
+        -3439.8,
+        207.07,
+        567.8
+      ],
+      "height": 48.0,
+      "footprint_area": 2342.9
+    },
+    {
+      "name": "I&M Bank",
+      "kind": "bank",
+      "position": [
+        -3469.55,
+        200.26,
+        707.89
+      ],
+      "height": 32.0,
+      "footprint_area": 2309.6
+    },
+    {
+      "name": "Rwanda Social Security Board",
+      "kind": "yes",
+      "position": [
+        -2731.23,
+        91.38,
+        357.53
+      ],
+      "height": 22.4,
+      "footprint_area": 2276.4
+    },
+    {
+      "name": "Banque Commerciale du Rwanda",
+      "kind": "yes",
+      "position": [
+        -3476.08,
+        188.39,
+        640.89
+      ],
+      "height": 22.4,
+      "footprint_area": 2260.9
+    },
+    {
+      "name": "Green Hills indoor Basketball courts",
+      "kind": "school",
+      "position": [
+        1466.64,
+        64.14,
+        -28.74
+      ],
+      "height": 16.3,
+      "footprint_area": 2006.3
+    },
+    {
+      "name": "National Archives of Rwanda",
+      "kind": "yes",
+      "position": [
+        -1053.35,
+        83.99,
+        -657.75
+      ],
+      "height": 25.6,
+      "footprint_area": 1884.1
+    },
+    {
+      "name": "ISCO HQ",
+      "kind": "security",
+      "position": [
+        -1840.66,
+        29.27,
+        1712.54
+      ],
+      "height": 12.6,
+      "footprint_area": 1835.3
+    },
+    {
+      "name": "Ecole de l'Epiphanie (Nursery and Primary School)",
+      "kind": "yes",
+      "position": [
+        1467.69,
+        24.88,
+        -2055.26
+      ],
+      "height": 9.6,
+      "footprint_area": 1643.4
+    },
+    {
+      "name": "\u00c9glise de la Sainte-Famille de Kigali",
+      "kind": "place_of_worship",
+      "position": [
+        -3240.04,
+        121.33,
+        201.19
+      ],
+      "height": 12.8,
+      "footprint_area": 1551.2
+    },
+    {
+      "name": "Sainte Famille Hotel",
+      "kind": "hotel",
+      "position": [
+        -3223.82,
+        116.17,
+        142.22
+      ],
+      "height": 12.8,
+      "footprint_area": 1460.3
+    },
+    {
+      "name": "MINAGRI (Ministry of Agriculture)",
+      "kind": "commercial",
+      "position": [
+        -444.18,
+        75.88,
+        -212.05
+      ],
+      "height": 12.8,
+      "footprint_area": 1444.9
+    },
+    {
+      "name": "Grand Legacy",
+      "kind": "hotel",
+      "position": [
+        2214.24,
+        120.13,
+        1957.85
+      ],
+      "height": 12.7,
+      "footprint_area": 1435.1
+    },
+    {
+      "name": "CST Library",
+      "kind": "library",
+      "position": [
+        -3311.23,
+        171.52,
+        1746.74
+      ],
+      "height": 9.8,
+      "footprint_area": 1411.0
+    },
+    {
+      "name": "Kimihurura Assemblies of God",
+      "kind": "place_of_worship",
+      "position": [
+        -1731.31,
+        13.54,
+        849.32
+      ],
+      "height": 15.4,
+      "footprint_area": 1389.2
+    },
+    {
+      "name": "School Canteen",
+      "kind": "school",
+      "position": [
+        1400.99,
+        59.51,
+        -160.9
+      ],
+      "height": 13.0,
+      "footprint_area": 1369.8
+    },
+    {
+      "name": "Career Centre",
+      "kind": "residential",
+      "position": [
+        31.62,
+        105.56,
+        958.03
+      ],
+      "height": 6.4,
+      "footprint_area": 1360.4
+    },
+    {
+      "name": "Nobilis Appartments",
+      "kind": "motel",
+      "position": [
+        -2667.23,
+        120.52,
+        928.38
+      ],
+      "height": 16.2,
+      "footprint_area": 1348.2
+    },
+    {
+      "name": "Advantist Church",
+      "kind": "yes",
+      "position": [
+        -1544.62,
+        24.17,
+        -38.3
+      ],
+      "height": 9.9,
+      "footprint_area": 1278.5
+    },
+    {
+      "name": "MTN Technical Centre Remera",
+      "kind": "telecommunication",
+      "position": [
+        2783.41,
+        142.72,
+        1150.6
+      ],
+      "height": 13.0,
+      "footprint_area": 1266.2
+    },
+    {
+      "name": "African Centre of Excellence in Energy for Sustainable Development",
+      "kind": "school",
+      "position": [
+        -3327.05,
+        171.01,
+        1805.68
+      ],
+      "height": 7.0,
+      "footprint_area": 1265.9
+    },
+    {
+      "name": "Four Points by Sheraton Kigali",
+      "kind": "hotel",
+      "position": [
+        -3467.67,
+        199.07,
+        1382.89
+      ],
+      "height": 28.8,
+      "footprint_area": 1264.6
+    },
+    {
+      "name": "ADB High School",
+      "kind": "school",
+      "position": [
+        1308.0,
+        76.88,
+        16.62
+      ],
+      "height": 9.6,
+      "footprint_area": 1260.6
+    },
+    {
+      "name": "Kinyinya Bus Station",
+      "kind": "bus_station",
+      "position": [
+        1862.18,
+        104.0,
+        -3256.6
+      ],
+      "height": 9.3,
+      "footprint_area": 1198.0
+    },
+    {
+      "name": "H\u00f4tel Dmall",
+      "kind": "hotel",
+      "position": [
+        1266.68,
+        101.16,
+        707.87
+      ],
+      "height": 19.0,
+      "footprint_area": 1151.3
+    },
+    {
+      "name": "Kibagabaga Anglican Church",
+      "kind": "place_of_worship",
+      "position": [
+        2346.05,
+        117.95,
+        -1192.04
+      ],
+      "height": 15.4,
+      "footprint_area": 1135.2
+    },
+    {
+      "name": "Contr\u00f4le Technique",
+      "kind": "vehicle_inspection",
+      "position": [
+        2585.33,
+        145.53,
+        906.25
+      ],
+      "height": 12.5,
+      "footprint_area": 1132.3
+    },
+    {
+      "name": "Hotel Beausejour",
+      "kind": "yes",
+      "position": [
+        1333.16,
+        108.71,
+        1720.3
+      ],
+      "height": 9.3,
+      "footprint_area": 1083.4
+    },
+    {
+      "name": "British High Commission",
+      "kind": "diplomatic",
+      "position": [
+        -132.97,
+        89.27,
+        536.79
+      ],
+      "height": 9.9,
+      "footprint_area": 1081.0
+    },
+    {
+      "name": "Paroisse Marie Auxiliatrice",
+      "kind": "place_of_worship",
+      "position": [
+        -1459.92,
+        72.3,
+        600.67
+      ],
+      "height": 15.4,
+      "footprint_area": 1061.5
+    },
+    {
+      "name": "Don Bosco Primary School",
+      "kind": "residential",
+      "position": [
+        -1382.29,
+        62.63,
+        590.04
+      ],
+      "height": 3.2,
+      "footprint_area": 1016.9
+    },
+    {
+      "name": "Kim Hotel",
+      "kind": "hotel",
+      "position": [
+        -1381.42,
+        69.1,
+        1319.85
+      ],
+      "height": 19.4,
+      "footprint_area": 1016.4
+    },
+    {
+      "name": "Dusaidi Hostel",
+      "kind": "hostel",
+      "position": [
+        -3199.52,
+        172.65,
+        1369.79
+      ],
+      "height": 16.0,
+      "footprint_area": 1014.2
+    },
+    {
+      "name": "Manor Hotel",
+      "kind": "hotel",
+      "position": [
+        532.18,
+        72.13,
+        -1150.92
+      ],
+      "height": 18.9,
+      "footprint_area": 1012.6
+    },
+    {
+      "name": "Kigali International Community School (KICS)",
+      "kind": "school",
+      "position": [
+        -138.99,
+        97.19,
+        -1741.37
+      ],
+      "height": 6.4,
+      "footprint_area": 990.0
+    },
+    {
+      "name": "Presbyterian Church of the Kiyovu Diocese",
+      "kind": "place_of_worship",
+      "position": [
+        -2836.15,
+        115.97,
+        670.92
+      ],
+      "height": 13.8,
+      "footprint_area": 981.3
+    },
+    {
+      "name": "Ambassade de France",
+      "kind": "diplomatic",
+      "position": [
+        -2888.37,
+        115.51,
+        635.61
+      ],
+      "height": 9.4,
+      "footprint_area": 967.4
+    },
+    {
+      "name": "SDA BAILENGO CHURCH",
+      "kind": "yes",
+      "position": [
+        -1554.36,
+        15.48,
+        -3.76
+      ],
+      "height": 9.3,
+      "footprint_area": 949.0
+    },
+    {
+      "name": "University of Kigali",
+      "kind": "university",
+      "position": [
+        30.29,
+        105.11,
+        888.28
+      ],
+      "height": 12.8,
+      "footprint_area": 946.6
+    },
+    {
+      "name": "Hill View Hotel",
+      "kind": "hotel",
+      "position": [
+        -3225.49,
+        139.14,
+        293.73
+      ],
+      "height": 22.4,
+      "footprint_area": 941.1
+    },
+    {
+      "name": "Rwanda Broadcasting Agency",
+      "kind": "studio",
+      "position": [
+        -1108.68,
+        82.63,
+        -488.43
+      ],
+      "height": 9.5,
+      "footprint_area": 939.7
+    },
+    {
+      "name": "Presbyterian Church",
+      "kind": "place_of_worship",
+      "position": [
+        -2022.77,
+        81.18,
+        2307.07
+      ],
+      "height": 14.2,
+      "footprint_area": 933.9
+    },
+    {
+      "name": "Senior Officers Mess",
+      "kind": "restaurant",
+      "position": [
+        -646.45,
+        89.89,
+        1558.08
+      ],
+      "height": 9.4,
+      "footprint_area": 924.6
+    },
+    {
+      "name": "Atelier du Vin",
+      "kind": "restaurant",
+      "position": [
+        -308.72,
+        43.78,
+        2735.32
+      ],
+      "height": 6.2,
+      "footprint_area": 841.6
+    },
+    {
+      "name": "Christ Church of Rwanda",
+      "kind": "place_of_worship",
+      "position": [
+        -92.61,
+        107.8,
+        -1815.52
+      ],
+      "height": 12.8,
+      "footprint_area": 831.9
+    },
+    {
+      "name": "Ministry of Education (MINEDUC)",
+      "kind": "public_building",
+      "position": [
+        -1428.39,
+        77.31,
+        -643.68
+      ],
+      "height": 6.6,
+      "footprint_area": 826.0
+    },
+    {
+      "name": "Caf\u00e9 Royal",
+      "kind": "cafe",
+      "position": [
+        -1472.23,
+        65.07,
+        687.17
+      ],
+      "height": 9.6,
+      "footprint_area": 819.8
+    },
+    {
+      "name": "Don Bosco Primary School",
+      "kind": "yes",
+      "position": [
+        -1420.29,
+        70.23,
+        509.57
+      ],
+      "height": 6.4,
+      "footprint_area": 819.5
+    },
+    {
+      "name": "Sawa Citi",
+      "kind": "supermarket",
+      "position": [
+        -1983.07,
+        10.19,
+        1051.19
+      ],
+      "height": 12.8,
+      "footprint_area": 806.6
+    },
+    {
+      "name": "Liquid Telecom",
+      "kind": "yes",
+      "position": [
+        -3359.95,
+        218.75,
+        608.68
+      ],
+      "height": 57.6,
+      "footprint_area": 801.5
+    },
+    {
+      "name": "Home Free Hotel",
+      "kind": "hotel",
+      "position": [
+        -958.26,
+        99.53,
+        1028.14
+      ],
+      "height": 22.6,
+      "footprint_area": 794.8
+    },
+    {
+      "name": "Lecturer Hostel",
+      "kind": "hostel",
+      "position": [
+        -3239.02,
+        169.01,
+        2273.44
+      ],
+      "height": 22.7,
+      "footprint_area": 766.4
+    },
+    {
+      "name": "Khana Khazana Kiyovu",
+      "kind": "restaurant",
+      "position": [
+        -2978.47,
+        109.98,
+        488.27
+      ],
+      "height": 6.6,
+      "footprint_area": 751.5
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "kind": "hotel",
+      "position": [
+        69.85,
+        121.88,
+        -2184.4
+      ],
+      "height": 19.2,
+      "footprint_area": 746.1
+    },
+    {
+      "name": "Lycee de Kigali Gymnasium",
+      "kind": "school",
+      "position": [
+        -2668.97,
+        54.63,
+        2156.04
+      ],
+      "height": 6.3,
+      "footprint_area": 740.2
+    },
+    {
+      "name": "Zenith Hotel",
+      "kind": "hotel",
+      "position": [
+        -1167.25,
+        91.11,
+        1050.25
+      ],
+      "height": 22.6,
+      "footprint_area": 732.0
+    },
+    {
+      "name": "Elikapeka",
+      "kind": "restaurant",
+      "position": [
+        -2891.9,
+        109.25,
+        558.15
+      ],
+      "height": 6.5,
+      "footprint_area": 720.5
+    },
+    {
+      "name": "Gosple Community Church",
+      "kind": "church",
+      "position": [
+        846.09,
+        45.67,
+        -1722.76
+      ],
+      "height": 13.5,
+      "footprint_area": 718.7
+    },
+    {
+      "name": "Lambo",
+      "kind": "cafe",
+      "position": [
+        1125.72,
+        94.13,
+        2498.26
+      ],
+      "height": 9.3,
+      "footprint_area": 716.7
+    },
+    {
+      "name": "Ministry of Gender and Family Promotion",
+      "kind": "place_of_worship",
+      "position": [
+        -1623.48,
+        38.44,
+        406.67
+      ],
+      "height": 3.2,
+      "footprint_area": 716.2
+    },
+    {
+      "name": "Residence PRIMA 2000",
+      "kind": "hotel",
+      "position": [
+        -427.15,
+        95.49,
+        248.12
+      ],
+      "height": 18.9,
+      "footprint_area": 716.1
+    },
+    {
+      "name": "FAWE Girls Secondary School",
+      "kind": "school",
+      "position": [
+        -2168.59,
+        83.01,
+        -3218.97
+      ],
+      "height": 9.6,
+      "footprint_area": 685.6
+    },
+    {
+      "name": "Don Bosco Primary School",
+      "kind": "yes",
+      "position": [
+        -1378.3,
+        64.87,
+        493.07
+      ],
+      "height": 6.1,
+      "footprint_area": 684.1
+    },
+    {
+      "name": "Embassy of Qatar",
+      "kind": "diplomatic",
+      "position": [
+        -1024.44,
+        83.17,
+        1456.18
+      ],
+      "height": 6.4,
+      "footprint_area": 673.5
+    },
+    {
+      "name": "Petit Bassan Hotel",
+      "kind": "yes",
+      "position": [
+        -1356.2,
+        56.34,
+        1080.49
+      ],
+      "height": 9.9,
+      "footprint_area": 595.5
+    },
+    {
+      "name": "\u00c9glise Adventiste du Septi\u00e8me Jour de Kimihurura",
+      "kind": "place_of_worship",
+      "position": [
+        -809.23,
+        47.68,
+        2106.17
+      ],
+      "height": 11.7,
+      "footprint_area": 592.5
+    },
+    {
+      "name": "7 days advantist church",
+      "kind": "place_of_worship",
+      "position": [
+        -1855.52,
+        59.71,
+        -389.22
+      ],
+      "height": 14.0,
+      "footprint_area": 590.4
+    },
+    {
+      "name": "Central Union of Rwandan Workers' Trade Unions (CESTRAR)",
+      "kind": "public_building",
+      "position": [
+        -1552.29,
+        76.56,
+        -500.83
+      ],
+      "height": 6.3,
+      "footprint_area": 582.1
+    },
+    {
+      "name": "Discentre",
+      "kind": "fuel",
+      "position": [
+        -426.82,
+        21.58,
+        2858.43
+      ],
+      "height": 3.2,
+      "footprint_area": 581.3
+    },
+    {
+      "name": "Kigali International Community School (KICS)",
+      "kind": "school",
+      "position": [
+        -184.53,
+        93.1,
+        -1727.15
+      ],
+      "height": 6.7,
+      "footprint_area": 580.3
+    },
+    {
+      "name": "BWOK",
+      "kind": "restaurant",
+      "position": [
+        -1456.84,
+        43.67,
+        428.97
+      ],
+      "height": 3.2,
+      "footprint_area": 578.5
+    },
+    {
+      "name": "Residence of the American Ambassador",
+      "kind": "diplomatic",
+      "position": [
+        -561.11,
+        84.18,
+        135.44
+      ],
+      "height": 6.7,
+      "footprint_area": 572.0
+    },
+    {
+      "name": "Soras Tower South",
+      "kind": "commercial",
+      "position": [
+        -3400.96,
+        179.54,
+        908.42
+      ],
+      "height": 12.8,
+      "footprint_area": 555.9
+    },
+    {
+      "name": "Soras Tower North",
+      "kind": "commercial",
+      "position": [
+        -3403.88,
+        177.29,
+        884.32
+      ],
+      "height": 12.8,
+      "footprint_area": 555.7
+    },
+    {
+      "name": "Embassy of the People's Republic of China",
+      "kind": "diplomatic",
+      "position": [
+        -3483.84,
+        177.59,
+        1246.39
+      ],
+      "height": 9.6,
+      "footprint_area": 555.4
+    },
+    {
+      "name": "UNHCR",
+      "kind": "ngo",
+      "position": [
+        1165.99,
+        81.85,
+        -98.61
+      ],
+      "height": 9.4,
+      "footprint_area": 545.9
+    },
+    {
+      "name": "Switch",
+      "kind": "restaurant",
+      "position": [
+        -1061.5,
+        87.83,
+        1277.32
+      ],
+      "height": 6.3,
+      "footprint_area": 538.8
+    },
+    {
+      "name": "Embassy of the Kingdom of Belgium",
+      "kind": "diplomatic",
+      "position": [
+        -3486.56,
+        179.42,
+        1121.35
+      ],
+      "height": 12.8,
+      "footprint_area": 537.5
+    },
+    {
+      "name": "Office of the Ombudsman",
+      "kind": "government",
+      "position": [
+        -884.17,
+        84.57,
+        975.77
+      ],
+      "height": 9.6,
+      "footprint_area": 526.4
+    },
+    {
+      "name": "Don Bosco Primary School",
+      "kind": "yes",
+      "position": [
+        -1299.58,
+        66.28,
+        557.04
+      ],
+      "height": 9.7,
+      "footprint_area": 518.3
+    },
+    {
+      "name": "The Nest",
+      "kind": "hotel",
+      "position": [
+        -1150.06,
+        78.94,
+        1183.99
+      ],
+      "height": 6.4,
+      "footprint_area": 518.1
+    },
+    {
+      "name": "School of Engineering Office",
+      "kind": "yes",
+      "position": [
+        -3163.74,
+        160.63,
+        1585.82
+      ],
+      "height": 4.0,
+      "footprint_area": 516.0
+    },
+    {
+      "name": "Impala Hotel",
+      "kind": "yes",
+      "position": [
+        -3472.4,
+        110.14,
+        -180.15
+      ],
+      "height": 6.4,
+      "footprint_area": 510.4
+    },
+    {
+      "name": "URSU Student",
+      "kind": "government",
+      "position": [
+        -3240.6,
+        175.92,
+        1693.29
+      ],
+      "height": 9.4,
+      "footprint_area": 493.2
+    },
+    {
+      "name": "Esri Rwanda",
+      "kind": "yes",
+      "position": [
+        -285.28,
+        78.89,
+        380.17
+      ],
+      "height": 3.2,
+      "footprint_area": 485.7
+    },
+    {
+      "name": "South Africa High Commission",
+      "kind": "diplomatic",
+      "position": [
+        -834.34,
+        81.73,
+        -188.25
+      ],
+      "height": 6.2,
+      "footprint_area": 471.8
+    },
+    {
+      "name": "Embassy of Senegal",
+      "kind": "diplomatic",
+      "position": [
+        -971.54,
+        69.53,
+        1740.66
+      ],
+      "height": 6.5,
+      "footprint_area": 471.0
+    },
+    {
+      "name": "Legend Hotel",
+      "kind": "hotel",
+      "position": [
+        -2241.49,
+        85.79,
+        -1174.42
+      ],
+      "height": 22.2,
+      "footprint_area": 463.3
+    },
+    {
+      "name": "5 Swiss Hotel",
+      "kind": "hotel",
+      "position": [
+        -3218.34,
+        161.48,
+        546.95
+      ],
+      "height": 22.1,
+      "footprint_area": 457.5
+    },
+    {
+      "name": "IOM Kigali Medical Health Assessment Center",
+      "kind": "service",
+      "position": [
+        191.25,
+        74.75,
+        414.19
+      ],
+      "height": 6.2,
+      "footprint_area": 454.6
+    },
+    {
+      "name": "Restauration Church Remera",
+      "kind": "place_of_worship",
+      "position": [
+        2768.95,
+        137.72,
+        1317.07
+      ],
+      "height": 12.0,
+      "footprint_area": 454.3
+    },
+    {
+      "name": "stamina chapter 2",
+      "kind": "restaurant",
+      "position": [
+        2616.74,
+        110.11,
+        1765.08
+      ],
+      "height": 6.6,
+      "footprint_area": 454.1
+    },
+    {
+      "name": "BURGER BROS",
+      "kind": "restaurant",
+      "position": [
+        2247.41,
+        118.62,
+        1776.97
+      ],
+      "height": 3.2,
+      "footprint_area": 442.3
+    },
+    {
+      "name": "Rwanda Eye Clinic (Muganga Wamaso)",
+      "kind": "doctors",
+      "position": [
+        -3086.43,
+        133.28,
+        605.82
+      ],
+      "height": 9.3,
+      "footprint_area": 438.5
+    },
+    {
+      "name": "Zenora Wellness Center",
+      "kind": "residential",
+      "position": [
+        -800.5,
+        56.91,
+        2040.59
+      ],
+      "height": 9.4,
+      "footprint_area": 435.0
+    },
+    {
+      "name": "Don Bosco Primary School",
+      "kind": "yes",
+      "position": [
+        -1344.01,
+        67.1,
+        494.69
+      ],
+      "height": 12.8,
+      "footprint_area": 403.7
+    },
+    {
+      "name": "Embassy of the Russian Federation",
+      "kind": "diplomatic",
+      "position": [
+        -3267.27,
+        167.32,
+        1245.57
+      ],
+      "height": 9.9,
+      "footprint_area": 400.3
+    },
+    {
+      "name": "AEBR Kacyiru",
+      "kind": "place_of_worship",
+      "position": [
+        -460.0,
+        77.08,
+        -59.52
+      ],
+      "height": 3.3,
+      "footprint_area": 397.9
+    },
+    {
+      "name": "Kimihurura Sector Office",
+      "kind": "townhall",
+      "position": [
+        534.76,
+        107.5,
+        1521.93
+      ],
+      "height": 12.5,
+      "footprint_area": 396.6
+    },
+    {
+      "name": "Software Centre of Excellence",
+      "kind": "yes",
+      "position": [
+        -1388.09,
+        62.0,
+        696.24
+      ],
+      "height": 2.9,
+      "footprint_area": 394.0
+    },
+    {
+      "name": "Bank Populaire du Rwanda, Kacyiru Branch",
+      "kind": "public_building",
+      "position": [
+        -1612.24,
+        65.81,
+        -433.34
+      ],
+      "height": 6.2,
+      "footprint_area": 390.5
+    },
+    {
+      "name": "Centre Socio Administrative - Umuryango wa abasoma Bibiliya mu Rwanda",
+      "kind": "yes",
+      "position": [
+        -1068.54,
+        56.3,
+        -61.69
+      ],
+      "height": 3.5,
+      "footprint_area": 383.9
+    },
+    {
+      "name": "Rwanda Biomedical Center (RBC)",
+      "kind": "government",
+      "position": [
+        149.03,
+        92.58,
+        1602.16
+      ],
+      "height": 3.2,
+      "footprint_area": 380.3
+    },
+    {
+      "name": "Tugende",
+      "kind": "guest_house",
+      "position": [
+        348.57,
+        105.21,
+        1459.58
+      ],
+      "height": 3.2,
+      "footprint_area": 376.7
+    },
+    {
+      "name": "Institute Of Legal Practice And Development",
+      "kind": "educational_institution",
+      "position": [
+        -3026.38,
+        106.45,
+        344.57
+      ],
+      "height": 9.3,
+      "footprint_area": 364.2
+    },
+    {
+      "name": "Apostolic. Original Building",
+      "kind": "place_of_worship",
+      "position": [
+        -1683.42,
+        8.42,
+        872.39
+      ],
+      "height": 3.2,
+      "footprint_area": 349.2
+    },
+    {
+      "name": "Centre Socio Culturel Twese Hamwe",
+      "kind": "yes",
+      "position": [
+        -2021.67,
+        31.41,
+        -1356.73
+      ],
+      "height": 3.1,
+      "footprint_area": 345.8
+    },
+    {
+      "name": "Qiang Brother",
+      "kind": "restaurant",
+      "position": [
+        -964.91,
+        7.06,
+        -1318.9
+      ],
+      "height": 6.5,
+      "footprint_area": 340.4
+    },
+    {
+      "name": "Town View Guest House",
+      "kind": "guest_house",
+      "position": [
+        -1690.97,
+        61.86,
+        -309.27
+      ],
+      "height": 18.9,
+      "footprint_area": 339.7
+    },
+    {
+      "name": "Oxygen Restaurant & Bar",
+      "kind": "motel",
+      "position": [
+        -3463.04,
+        125.83,
+        -131.19
+      ],
+      "height": 19.3,
+      "footprint_area": 339.0
+    },
+    {
+      "name": "Rz Manna",
+      "kind": "yes",
+      "position": [
+        1211.61,
+        88.18,
+        816.45
+      ],
+      "height": 3.4,
+      "footprint_area": 337.1
+    },
+    {
+      "name": "ADEPR Kimihurura",
+      "kind": "place_of_worship",
+      "position": [
+        -1283.8,
+        65.46,
+        1459.26
+      ],
+      "height": 10.9,
+      "footprint_area": 335.6
+    },
+    {
+      "name": "Five to Five Hotel",
+      "kind": "hotel",
+      "position": [
+        1953.96,
+        131.88,
+        1377.34
+      ],
+      "height": 19.2,
+      "footprint_area": 329.0
+    },
+    {
+      "name": "Chez John",
+      "kind": "restaurant",
+      "position": [
+        -2534.36,
+        41.29,
+        1613.47
+      ],
+      "height": 3.5,
+      "footprint_area": 327.5
+    },
+    {
+      "name": "Inema Arts Center",
+      "kind": "arts_centre",
+      "position": [
+        -210.56,
+        61.18,
+        160.84
+      ],
+      "height": 3.2,
+      "footprint_area": 327.1
+    },
+    {
+      "name": "Solace Ministries",
+      "kind": "guest_house",
+      "position": [
+        -145.26,
+        79.83,
+        170.8
+      ],
+      "height": 22.1,
+      "footprint_area": 323.3
+    },
+    {
+      "name": "Poivre Noir",
+      "kind": "restaurant",
+      "position": [
+        -1290.87,
+        68.23,
+        750.44
+      ],
+      "height": 6.1,
+      "footprint_area": 315.0
+    },
+    {
+      "name": "German Embassy",
+      "kind": "diplomatic",
+      "position": [
+        -3184.48,
+        132.45,
+        455.61
+      ],
+      "height": 3.4,
+      "footprint_area": 310.1
+    },
+    {
+      "name": "Migano",
+      "kind": "restaurant",
+      "position": [
+        -1038.88,
+        77.83,
+        965.24
+      ],
+      "height": 3.2,
+      "footprint_area": 310.1
+    },
+    {
+      "name": "Mijo Hostel",
+      "kind": "hostel",
+      "position": [
+        -1317.48,
+        70.14,
+        979.76
+      ],
+      "height": 18.9,
+      "footprint_area": 298.9
+    },
+    {
+      "name": "Adventist Medical Clinic",
+      "kind": "doctors",
+      "position": [
+        1325.23,
+        114.51,
+        2378.81
+      ],
+      "height": 9.5,
+      "footprint_area": 295.1
+    },
+    {
+      "name": "Gender Monitoring Office",
+      "kind": "public_building",
+      "position": [
+        1228.4,
+        93.1,
+        1514.9
+      ],
+      "height": 3.0,
+      "footprint_area": 292.9
+    },
+    {
+      "name": "Sector Gisozi office",
+      "kind": "public_building",
+      "position": [
+        -2374.77,
+        12.7,
+        -2136.34
+      ],
+      "height": 3.5,
+      "footprint_area": 292.2
+    },
+    {
+      "name": "Deus Est Neuro Rehabilitation Centre and Clinics",
+      "kind": "residential",
+      "position": [
+        1037.98,
+        78.6,
+        2540.22
+      ],
+      "height": 6.4,
+      "footprint_area": 287.8
+    },
+    {
+      "name": "Chinesse Restaurant",
+      "kind": "restaurant",
+      "position": [
+        1132.18,
+        84.56,
+        2184.38
+      ],
+      "height": 6.5,
+      "footprint_area": 271.5
+    },
+    {
+      "name": "Embassy of T\u00fcrkiye",
+      "kind": "diplomatic",
+      "position": [
+        -1065.51,
+        89.64,
+        1368.72
+      ],
+      "height": 12.5,
+      "footprint_area": 261.9
+    },
+    {
+      "name": "Kimihurura Police Station",
+      "kind": "police",
+      "position": [
+        532.66,
+        107.22,
+        1554.54
+      ],
+      "height": 12.5,
+      "footprint_area": 256.0
+    },
+    {
+      "name": "Afika Bite",
+      "kind": "restaurant",
+      "position": [
+        -1235.28,
+        61.73,
+        998.88
+      ],
+      "height": 3.4,
+      "footprint_area": 246.4
+    },
+    {
+      "name": "lambanana",
+      "kind": "restaurant",
+      "position": [
+        1105.35,
+        90.05,
+        2447.29
+      ],
+      "height": 3.2,
+      "footprint_area": 243.8
+    },
+    {
+      "name": "Fat Mama's Restaurant and Hotel",
+      "kind": "residential",
+      "position": [
+        141.1,
+        89.77,
+        1637.82
+      ],
+      "height": 3.2,
+      "footprint_area": 238.0
+    },
+    {
+      "name": "KFC",
+      "kind": "fast_food",
+      "position": [
+        2744.99,
+        93.14,
+        1873.97
+      ],
+      "height": 3.4,
+      "footprint_area": 234.3
+    },
+    {
+      "name": "Zuri",
+      "kind": "restaurant",
+      "position": [
+        1120.6,
+        86.3,
+        844.76
+      ],
+      "height": 3.1,
+      "footprint_area": 234.0
+    },
+    {
+      "name": "FXB Rwanda Country Coordination Office",
+      "kind": "ngo",
+      "position": [
+        -1120.31,
+        75.97,
+        985.5
+      ],
+      "height": 3.1,
+      "footprint_area": 233.1
+    },
+    {
+      "name": "Inzozi Africa B&B",
+      "kind": "hotel",
+      "position": [
+        -1781.62,
+        57.46,
+        -276.36
+      ],
+      "height": 19.4,
+      "footprint_area": 227.0
+    },
+    {
+      "name": "lambo's den",
+      "kind": "residential",
+      "position": [
+        1143.0,
+        136.69,
+        2485.26
+      ],
+      "height": 50.0,
+      "footprint_area": 222.2
+    },
+    {
+      "name": "Ecole de l'Epiphanie (Nursery and Primary School)",
+      "kind": "yes",
+      "position": [
+        1593.97,
+        24.99,
+        -2088.13
+      ],
+      "height": 3.5,
+      "footprint_area": 215.1
+    },
+    {
+      "name": "Kobil",
+      "kind": "fuel",
+      "position": [
+        516.98,
+        62.13,
+        -1899.97
+      ],
+      "height": 3.3,
+      "footprint_area": 211.3
+    },
+    {
+      "name": "Kultura",
+      "kind": "restaurant",
+      "position": [
+        1898.69,
+        91.08,
+        -1619.93
+      ],
+      "height": 3.2,
+      "footprint_area": 210.3
+    },
+    {
+      "name": "Security office",
+      "kind": "yes",
+      "position": [
+        -3255.02,
+        168.19,
+        1499.19
+      ],
+      "height": 3.2,
+      "footprint_area": 194.0
+    },
+    {
+      "name": "Monmartse",
+      "kind": "restaurant",
+      "position": [
+        1158.07,
+        95.34,
+        1101.79
+      ],
+      "height": 3.1,
+      "footprint_area": 174.5
+    },
+    {
+      "name": "Don Bosco Primary School",
+      "kind": "yes",
+      "position": [
+        -1317.64,
+        60.3,
+        509.59
+      ],
+      "height": 9.6,
+      "footprint_area": 152.3
+    },
+    {
+      "name": "Kimihurura Primary School",
+      "kind": "yes",
+      "position": [
+        -1244.02,
+        61.07,
+        1436.69
+      ],
+      "height": 3.4,
+      "footprint_area": 148.0
+    },
+    {
+      "name": "iPOSITA",
+      "kind": "post_office",
+      "position": [
+        -3395.11,
+        108.69,
+        -29.97
+      ],
+      "height": 3.2,
+      "footprint_area": 135.9
+    },
+    {
+      "name": "Le Manoire 707",
+      "kind": "restaurant",
+      "position": [
+        -3288.64,
+        110.64,
+        -2379.8
+      ],
+      "height": 6.2,
+      "footprint_area": 134.7
+    },
+    {
+      "name": "Momento",
+      "kind": "bar",
+      "position": [
+        2093.18,
+        123.03,
+        1786.78
+      ],
+      "height": 3.3,
+      "footprint_area": 133.2
+    },
+    {
+      "name": "Mr Chips",
+      "kind": "restaurant",
+      "position": [
+        1093.99,
+        66.25,
+        -272.81
+      ],
+      "height": 3.5,
+      "footprint_area": 131.6
+    },
+    {
+      "name": "urusengero",
+      "kind": "place_of_worship",
+      "position": [
+        -1570.75,
+        43.21,
+        -207.94
+      ],
+      "height": 9.5,
+      "footprint_area": 116.9
+    },
+    {
+      "name": "KIST",
+      "kind": "parking",
+      "position": [
+        -3218.4,
+        167.7,
+        1531.6
+      ],
+      "height": 3.2,
+      "footprint_area": 109.2
+    },
+    {
+      "name": "TIGO Service Centre",
+      "kind": "yes",
+      "position": [
+        2470.58,
+        130.58,
+        1550.47
+      ],
+      "height": 3.2,
+      "footprint_area": 106.5
+    },
+    {
+      "name": "Centre of Languages",
+      "kind": "yes",
+      "position": [
+        -3166.2,
+        159.94,
+        1553.8
+      ],
+      "height": 2.8,
+      "footprint_area": 105.6
+    },
+    {
+      "name": "Kibagabaga Cell Office",
+      "kind": "public_building",
+      "position": [
+        2105.19,
+        105.0,
+        -1065.27
+      ],
+      "height": 6.5,
+      "footprint_area": 79.0
+    },
+    {
+      "name": "The New Times Headquarters",
+      "kind": "newspaper",
+      "position": [
+        2070.1,
+        105.66,
+        1137.77
+      ],
+      "height": 3.2,
+      "footprint_area": 78.8
+    },
+    {
+      "name": "The Gymnasium",
+      "kind": "yes",
+      "position": [
+        -2513.68,
+        23.1,
+        2240.98
+      ],
+      "height": 3.2,
+      "footprint_area": 70.5
+    },
+    {
+      "name": "Printing shop",
+      "kind": "yes",
+      "position": [
+        -3304.26,
+        160.74,
+        2092.36
+      ],
+      "height": 3.1,
+      "footprint_area": 66.1
+    },
+    {
+      "name": "Ugandan Restaurant",
+      "kind": "restaurant",
+      "position": [
+        1726.43,
+        105.71,
+        2308.6
+      ],
+      "height": 6.4,
+      "footprint_area": 61.1
+    },
+    {
+      "name": "Lake Petroleum Sonatubes",
+      "kind": "fuel",
+      "position": [
+        1057.45,
+        76.67,
+        2670.23
+      ],
+      "height": 6.3,
+      "footprint_area": 52.2
+    },
+    {
+      "name": "Muhabura Cantine",
+      "kind": "yes",
+      "position": [
+        -3170.49,
+        150.72,
+        2153.66
+      ],
+      "height": 3.2,
+      "footprint_area": 49.1
+    }
+  ]
+}

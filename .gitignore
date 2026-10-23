@@ -1,0 +1,26 @@
+# Godot 4 generated and imported files. Rebuilt by the editor on first open.
+.godot/
+*.translation
+export_presets.cfg
+export/
+*.tmp
+
+# Python bytecode from the asset pipeline in tools/ and the checks in tests/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Astra editor session data and scratch captures. Screenshots worth keeping live
+# in docs/images/, not here.
+.astra/
+.captures/
+
+# Operating system and editor droppings
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
