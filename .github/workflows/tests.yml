@@ -1,0 +1,59 @@
+# Every push and pull request runs the game's own suites on a clean machine.
+# This is what lets people contribute from anywhere: nobody has to trust that
+# the tests passed on someone else's desktop.
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+env:
+  GODOT_VERSION: 4.7.2
+
+jobs:
+  suite:
+    name: Godot ${{ env.GODOT_VERSION }} on Linux
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Godot ${{ env.GODOT_VERSION }}
+        run: |
+          set -euo pipefail
+          zip="Godot_v${GODOT_VERSION}-stable_linux.x86_64.zip"
+          curl -sSL -o "/tmp/$zip" \
+            "https://github.com/godotengine/godot/releases/download/${GODOT_VERSION}-stable/$zip"
+          unzip -q "/tmp/$zip" -d /tmp/godot
+          bin="/tmp/godot/Godot_v${GODOT_VERSION}-stable_linux.x86_64"
+          chmod +x "$bin"
+          mkdir -p "$HOME/.local/bin"
+          ln -sf "$bin" "$HOME/.local/bin/godot"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          godot --version
+
+      # The import cache is not in the repository, and the suites read imported
+      # audio and meshes. Import once, up front, so the checks do not race it.
+      - name: Import assets
+        run: godot --headless --path . --import
+
+      - name: Invariants and behaviour
+        run: |
+          set -o pipefail
+          godot --headless --path . scenes/test_runner.tscn 2>&1 | tee /tmp/unit.log
+          grep -q "TESTS=PASS" /tmp/unit.log
+
+      - name: A whole race, headless
+        run: |
+          set -o pipefail
+          godot --headless --path . scenes/race.tscn -- --selftest --laps=1 --speed=4 --track=0 2>&1 | tee /tmp/race.log
+          grep -q "SELFTEST=PASS" /tmp/race.log
+
+      - name: Physics sweep on the circuit
+        run: |
+          set -o pipefail
+          godot --headless --path . scenes/physics_check.tscn -- --track=2 2>&1 | tee /tmp/physics.log
+          grep -q "PHYSICS_CHECK=PASS" /tmp/physics.log

@@ -105,6 +105,12 @@ If you touched rendering, the HUD or an asset, also run the Python checks in
 `tests/` — they are the only thing that proves the game *paints* what the
 physics and the data say it should.
 
+Every push to `main` and every pull request runs both suites on a clean Linux
+machine in GitHub Actions (`.github/workflows/tests.yml`), with Godot installed
+from the official release. The rendering checks in `tests/` are not part of it —
+they need a real GPU — so run those yourself if your change touches how the game
+looks.
+
 Write a test with your fix where one is possible. The suite is deliberately
 fast: prefer asserting in-process over spawning a browser or waiting on a
 timer. A check that fails for the old behaviour and passes for the new one is
