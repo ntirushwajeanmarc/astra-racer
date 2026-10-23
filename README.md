@@ -25,10 +25,15 @@ and three pots into a wheel the game already understands.
 ## Quick start
 
 ```bash
-git clone <this repository>
-cd <this repository>
+git clone https://github.com/ntirushwajeanmarc/astra-racer.git
+cd astra-racer
 godot --path .        # or: open this folder in the Godot editor and press F5
 ```
+
+You do not need an account, a fork or anyone's permission to download and run
+this — the repository is public. The clone above is read-only for everyone; to
+change the game and send the change back, fork it first, which is one button on
+the project page and needs nothing from us.
 
 The entry point is the menu: pick a circuit, rivals, laps and difficulty, then
 **RACE**. You start at the back of the grid, which is the arcade convention and
