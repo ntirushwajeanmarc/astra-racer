@@ -14,7 +14,7 @@ env:
 
 jobs:
   suite:
-    name: Godot ${{ env.GODOT_VERSION }} on Linux
+    name: Godot on Linux
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
