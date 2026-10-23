@@ -36,7 +36,13 @@ the only reason the AI is worth chasing.
 
 The first launch imports the assets and builds the `.godot/` folder; that is
 normal, it is ignored by git, and it takes a few seconds. If the game reports a
-missing resource, let the editor finish importing and run it again.
+missing resource, let the editor finish importing and run it again. Running the
+checks on a fresh clone before the editor has ever opened the project? Import
+first, once:
+
+```bash
+godot --headless --path . --import
+```
 
 ## Repository layout
 
