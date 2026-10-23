@@ -307,7 +307,7 @@ def section_matches_the_game():
         return [(p[0], p[2], p[1]) for p in got]
 
     def number_of(block, key):
-        return float(re.search('"%s":\s*([-\d.]+)' % key, block).group(1))
+        return float(re.search(r'"%s":\s*([-\d.]+)' % key, block).group(1))
 
     # What the Godot suite prints for this circuit. The port is used to judge a
     # real course, so it is held to the same numbers on a course whose answer is

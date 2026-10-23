@@ -5,6 +5,10 @@ export_presets.cfg
 export/
 *.tmp
 
+# Scratch directory the asset tools write generated textures into before
+# embedding them in a GLB. Deliberately outside res://; regenerated on demand.
+/build/
+
 # Python bytecode from the asset pipeline in tools/ and the checks in tests/
 __pycache__/
 *.py[cod]
